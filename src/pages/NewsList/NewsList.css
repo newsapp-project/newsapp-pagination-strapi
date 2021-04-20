@@ -1,0 +1,15 @@
+.newslistbreadcrumb {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid darkgray;
+}
+
+.newslisttitle {
+  margin-left: 12px;
+}
+
+.newslisttitle h3 {
+  color: rgb(107 107 107);
+  font-weight: 500;
+}

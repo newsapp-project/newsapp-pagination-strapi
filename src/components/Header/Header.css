@@ -1,0 +1,15 @@
+.header {
+  height: 54px;
+  background-color: rgba(234, 68, 53, 1);
+  color: white;
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  font-family: sans-serif;
+  /*width: 100%;*/
+  padding-left: 27%;
+}
+
+.headerName {
+  font-size: 1.8em;
+}
